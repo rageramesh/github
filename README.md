@@ -1,3 +1,3 @@
 # github
 online shoping
-this is practice purpose
+this is a institute purpose
